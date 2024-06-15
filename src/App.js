@@ -1,4 +1,5 @@
 import './App.css';
+import React, { useState, useEffect } from "react";
 import p_h from "./questions/physics_questions.json";
 import q from "./questions/questions.json";
 import t_q from "./questions/tech_questions.json";
