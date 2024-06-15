@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "question": "Odpadní vody a jejich likvidace. Vnější kanalizační systémy"
+  },
+  {
+    "id": 2,
+    "question": "Vnitřní kanalizace – typologie, zařizovací předměty"
+  },
+  {
+    "id": 3,
+    "question": "Vnitřní kanalizace - potrubní síť materiály, pravidla pro návrh"
+  },
+  {
+    "id": 4,
+    "question": "Zásobování vodou, bilance potřeby vody, vnější vodovod"
+  },
+  {
+    "id": 5,
+    "question": "Vnitřní vodovod – rozvody, materiály, výpočet"
+  },
+  {
+    "id": 6,
+    "question": "Vnější plynovody, přípojky"
+  },
+  {
+    "id": 7,
+    "question": "Bilance potřeby plynu, typy a umístění plynových spotřebičů"
+  },
+  {
+    "id": 8,
+    "question": "Vnitřní systémy plynovodu, odvod spalin"
+  },
+  {
+    "id": 9,
+    "question": "Vytápění místností a návrh otopných ploch,"
+  },
+  {
+    "id": 10,
+    "question": "Výpočet potřeby tepla na vytápění a tepelného výkonu"
+  },
+  {
+    "id": 11,
+    "question": "Otopné soustavy – geometrie, materiály, dimenzování"
+  },
+  {
+    "id": 12,
+    "question": "Zdroje tepla – kotelny, dálkové vytápění"
+  },
+  {
+    "id": 13,
+    "question": "Zdroje tepla – obnovitelné zdroje"
+  },
+  {
+    "id": 14,
+    "question": "Příprava teplé vody – zdroje, způsoby ohřevu"
+  },
+  {
+    "id": 15,
+    "question": "Vnitřní prostředí v budovách a jeho parametry, hygienické požadavky"
+  },
+  {
+    "id": 16,
+    "question": "Základní návrhová kritéria a požadavky pro návrh vzduchotechnických systémů"
+  },
+  {
+    "id": 17,
+    "question": "Druhy větrání, základní rozdělení, principy - přirozené a nucené větrání"
+  },
+  {
+    "id": 18,
+    "question": "Větrání obytných budov"
+  },
+  {
+    "id": 19,
+    "question": "Větrání specifických provozů (kanceláře, shromažďovací místnosti, garáže)"
+  },
+  {
+    "id": 20,
+    "question": "Klimatizace a chladící soustavy - principy, základní soustavy"
+  },
+  {
+    "id": 21,
+    "question": "Vlhký vzduch, úpravy parametrů, hx diagram"
+  },
+  {
+    "id": 22,
+    "question": "Vzduchotechnické jednotky pro větrání, teplovzdušné vytápění, klimatizaci"
+  },
+  {
+    "id": 23,
+    "question": "Prvky vzduchotechnických soustav - ventilátory, potrubí, distribuční prvky"
+  },
+  {
+    "id": 24,
+    "question": "Požární větrání, opatření proti šíření požáru potrubím - základy, principy"
+  },
+  {
+    "id": 25,
+    "question": "Umělé a sdružené osvětlení - základní fyzikálně technické veličiny"
+  },
+  {
+    "id": 26,
+    "question": "Osvětlovací soustavy, zdroje světla, svítidla - výpočtové metody"
+  },
+  {
+    "id": 27,
+    "question": "Vnitřní a vnější elektrorozvody"
+  },
+  {
+    "id": 28,
+    "question": "Ochrana před bleskem, přepětí"
+  }
+]

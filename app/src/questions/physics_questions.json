@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "question": "Konstrukční prvky budov, modely statického působení, vliv konstrukčního a technologického řešení na statické působení"
+  },
+  {
+    "id": 2,
+    "question": "Konstrukční systémy budov - varianty, způsoby použití, modulová koordinace"
+  },
+  {
+    "id": 3,
+    "question": "Svislé nosné konstrukce – konstrukce z betonu a železobetonu"
+  },
+  {
+    "id": 4,
+    "question": "Svislé nosné konstrukce – zděné konstrukce"
+  },
+  {
+    "id": 5,
+    "question": "Stropní konstrukce – klenby, keramické stropy"
+  },
+  {
+    "id": 6,
+    "question": "Stropní konstrukce – železobetonové stropy"
+  },
+  {
+    "id": 7,
+    "question": "Stropní konstrukce – ocelové a ocelobetonové stropy"
+  },
+  {
+    "id": 8,
+    "question": "Stropní konstrukce – dřevěné stropy"
+  },
+  {
+    "id": 9,
+    "question": "Předsazené konstrukce - konstrukční varianty a statické působení, tepelně technické souvislosti – tepelné vazby a mosty"
+  },
+  {
+    "id": 10,
+    "question": "Konstrukční návrh budov v kontextu udržitelné výstavby - vliv konstrukčního a materiálového řešení v průběhu životního cyklu budovy, nízkoenergetické, pasivní domy"
+  },
+  {
+    "id": 11,
+    "question": "Schodiště – požadavky, typologie návrhu, dispoziční uspořádání"
+  },
+  {
+    "id": 12,
+    "question": "Schodiště - konstrukční a materiálová řešení"
+  },
+  {
+    "id": 13,
+    "question": "Schodiště – problematika šíření hluku a vibrací ze schodišťového prostoru"
+  },
+  {
+    "id": 14,
+    "question": "Šikmé rampy – požadavky, typologie návrhu, konstrukční řešení"
+  },
+  {
+    "id": 15,
+    "question": "Dilatace nosných konstrukcí budov – důvody, zásady umisťování dilatačních spár, konstrukční principy"
+  },
+  {
+    "id": 16,
+    "question": "Základové konstrukce budov – požadavky, typy základů konstrukcí budov, principy návrhu, řešení soklové oblasti"
+  },
+  {
+    "id": 17,
+    "question": "Konstrukce spodní stavby – suterénní stěny, osvětlovací šachty"
+  },
+  {
+    "id": 18,
+    "question": "Hydroizolace spodní stavby – povlakové hydroizolace"
+  },
+  {
+    "id": 19,
+    "question": "Hydroizolace spodní stavby – bílé vany"
+  },
+  {
+    "id": 20,
+    "question": "Konstrukce šikmého zastřešení budov, tradiční a novodobé soustavy krovů"
+  },
+  {
+    "id": 21,
+    "question": "Šíření tepla ve stavebních konstrukcích, součinitel prostupu tepla"
+  },
+  {
+    "id": 22,
+    "question": "Stavební detaily - tepelné vazby, lineární činitel prostupu tepla"
+  },
+  {
+    "id": 23,
+    "question": "Stavební detaily - nejnižší vnitřní povrchová teplota, riziko povrchové kondenzace"
+  },
+  {
+    "id": 24,
+    "question": "Šíření vodní páry ve stavebních konstrukcích, riziko kondenzace ve skladbě konstrukcí"
+  },
+  {
+    "id": 25,
+    "question": "Tepelná bilance prostoru, vnitřní teplota prostoru a potřeba tepla na vytápění- principy výpočtu"
+  },
+  {
+    "id": 26,
+    "question": "Principy nízkoenergetické výstavby, nízkoenergetické, pasivní, nulové domy"
+  },
+  {
+    "id": 27,
+    "question": "Tepelná stabilita místnosti (zimní, letní), riziko letního přehřívání"
+  },
+  {
+    "id": 28,
+    "question": "Světlo a sluneční záření, zrak a jeho vlastnosti, fotometrie, vliv denního světla na člověka"
+  },
+  {
+    "id": 29,
+    "question": "Denní osvětlení"
+  },
+  {
+    "id": 30,
+    "question": "Proslunění budov a ochrana proti přímému slunečnímu záření"
+  },
+  {
+    "id": 31,
+    "question": "Šíření zvuku ve venkovním prostoru - urbanistická akustika"
+  },
+  {
+    "id": 32,
+    "question": "Šíření zvuku v uzavřeném prostoru - prostorová akustika"
+  },
+  {
+    "id": 33,
+    "question": "Vzduchová neprůzvučnost"
+  },
+  {
+    "id": 34,
+    "question": "Šíření zvuku konstrukcí, kročejový hluk"
+  },
+  {
+    "id": 35,
+    "question": "Střešní pláště plochých střech, jednoplášťové, dvouplášťové zelené střechy a střechy pro zvláštní účely - požadavky, funkce, principy návrhu skladby a detailů"
+  },
+  {
+    "id": 36,
+    "question": "Střešní pláště šikmých střech - požadavky, funkce, principy návrhu skladby a detailů"
+  },
+  {
+    "id": 37,
+    "question": "Obvodové stěny, jednoplášťové, dvouplášťové - požadavky, funkce, principy návrhu skladby a detailů"
+  },
+  {
+    "id": 38,
+    "question": "Výplně otvorů (okna, střešní okna, dveře, vrata, světlíky), lehké obvodové pláště (prosklené stěny)"
+  },
+  {
+    "id": 39,
+    "question": "Vnitřní dělicí stěny, podlahová souvrství, podhledy - požadavky, funkce, principy návrhu skladby a detailů"
+  },
+  {
+    "id": 40,
+    "question": "Úpravy obalových konstrukcí při komplexní přestavbě a energetické sanaci budovy"
+  },
+  {
+    "id": 41,
+    "question": "Konstrukce šikmých střech - krokevní a vaznicové soustavy, uspořádání, konstrukční prvky, prostorové působení"
+  },
+  {
+    "id": 42,
+    "question": "Konstrukce vícepodlažních budov - konstrukční systémy, prostorová tuhost"
+  },
+  {
+    "id": 43,
+    "question": "Konstrukce vícepodlažních budov - prvky konstrukčního systému, obvodový plášť a jejich působení"
+  },
+  {
+    "id": 44,
+    "question": "Konstrukční systémy halových budov – deskové, vazníkové a rámové konstrukce"
+  },
+  {
+    "id": 45,
+    "question": "Konstrukční systémy halových budov – obloukové a klenbové konstrukce"
+  },
+  {
+    "id": 46,
+    "question": "Konstrukční systémy halových budov – visuté, zavěšené a pneumatické konstrukce"
+  },
+  {
+    "id": 47,
+    "question": "Konstrukční systémy halových budov – deskové a roštové konstrukce s obousměrným působením, konstrukce skořepinové, lomenicové a strukturální, lanové sítě a membrány, konstrukce s odděleným tlakovým a tahovým působením"
+  },
+  {
+    "id": 48,
+    "question": "Radon - vliv na lidské zdraví, ochrana budov proti radonu z podloží, stavební materiály jako zdroj radonu a gama záření"
+  },
+  {
+    "id": 49,
+    "question": "Aerosoly, vláknitý prach a těkavé organické sloučeniny ve vnitřním ovzduší staveb - vliv na lidské zdraví, řešení"
+  },
+  {
+    "id": 50,
+    "question": "Mikrobiologie staveb, biologičtí činitelé ve stavebních objektech - vliv na lidské zdraví, řešení"
+  },
+  {
+    "id": 51,
+    "question": "Stavební materiály z požárního hlediska, reakce na oheň"
+  },
+  {
+    "id": 52,
+    "question": "Stavební konstrukce a požární odolnost"
+  },
+  {
+    "id": 53,
+    "question": "Požární úseky, požární riziko, stupeň požární bezpečnosti"
+  },
+  {
+    "id": 54,
+    "question": "Požární únikové cesty, evakuace osob"
+  },
+  {
+    "id": 55,
+    "question": "Odstupové vzdálenosti a požárně nebezpečný prostor budov"
+  },
+  {
+    "id": 56,
+    "question": "Aktivní požární ochrana – požárně bezpečnostní zařízení, zařízení pro protipožární zásah"
+  },
+  {
+    "id": 57,
+    "question": "Požární specifika panelové bytové výstavby a instalačních rozvodů"
+  }
+]
