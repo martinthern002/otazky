@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/otazky/static/css/main.f855e6bc.css",
+    "main.js": "/otazky/static/js/main.164e6f78.js",
+    "static/js/453.a6a97343.chunk.js": "/otazky/static/js/453.a6a97343.chunk.js",
+    "index.html": "/otazky/index.html",
+    "main.f855e6bc.css.map": "/otazky/static/css/main.f855e6bc.css.map",
+    "main.164e6f78.js.map": "/otazky/static/js/main.164e6f78.js.map",
+    "453.a6a97343.chunk.js.map": "/otazky/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.164e6f78.js"
+  ]
+}
