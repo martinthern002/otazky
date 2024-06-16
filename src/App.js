@@ -60,6 +60,7 @@ function App() {
             <div>
                 {current_1 && (
                         <div style={{border: '1px solid', padding: "10px", fontSize: '20px'}}>
+                            <h3>{current_1.id}</h3>
                             <p>{current_1.question}</p>
                         </div>
                 )}
@@ -69,6 +70,7 @@ function App() {
             <div>
                 {current_4 && (
                         <div style={{border: '1px solid', padding: "10px", fontSize: '20px'}}>
+                            <h3>{current_4.id}</h3>
                             <p>{current_4.question}</p>
                         </div>
                 )}
@@ -78,6 +80,7 @@ function App() {
             <div>
                 {current_2 && (
                         <div style={{border: '1px solid', padding: "10px", fontSize: '20px'}}>
+                            <h3>{current_2.id}</h3>
                             <p>{current_2.question}</p>
                         </div>
                 )}
@@ -87,6 +90,7 @@ function App() {
             <div>
                 {current_3 && (
                         <div style={{border: '1px solid', padding: "10px", fontSize: '20px'}}>
+                            <h3>{current_3.id}</h3>
                             <p>{current_3.question}</p>
                         </div>
                 )}
